@@ -56,8 +56,8 @@ The next steps for this project are:
 - To make the model more useful and actionable, the model could be deployed as a web application or a dashboard, where hotel managers and customers can input their booking details and get the cancellation probability and some recommendations.
 
 #### Outline of project
-- [Link to notebook](https://github.com/vbathena/hotel-booking-cancellation-prediction/hotel-booking-cancellation-prediction.ipynb): Data Analysis and Model Performance
+- [Link to notebook](https://github.com/vbathena/hotel-booking-cancellation-prediction/blob/main/hotel-booking-cancellation-prediction.ipynb): Data Analysis and Model Performance
 
 
 ##### Contact and Further Information
-- Created by @vbathena - feel free to contact me!
+- Created by [@vbathena](https://www.linkedin.com/in/vijayabhaskarreddybathena/) - feel free to contact me!
