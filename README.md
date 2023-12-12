@@ -29,18 +29,18 @@ The methodology of this project consists of the following steps:
 - Data cleaning and preprocessing: This step involves handling missing values, outliers, duplicates, and data types.
 - Exploratory data analysis and visualization: This step involves exploring the distribution and relationship of the variables, and creating visualizations to gain insights from the data.
 - Feature engineering and selection: This step involves creating new features from the existing ones, and selecting the most relevant features for the machine learning model.
-- Model building and evaluation: This step involves splitting the data into train and test sets, applying different machine learning algorithms, and evaluating their performance using metrics such as accuracy, precision, recall, and F1-score.
+- Model building and evaluation: This step involves splitting the data into train and test sets, applying different machine learning algorithms, and evaluating their performance using metrics such as cross validation, accuracy, precision, recall, and F1-score.
 - Model interpretation and improvement: This step involves interpreting the results of the machine learning model, and applying techniques such as hyperparameter tuning, cross-validation, and feature importance analysis to improve the model.
 
 #### Results
 The results of this project are summarized as follows:
 
-- The main factors that influence hotel booking cancellations are lead time, deposit type, country, market segment, and customer type.
-- The best performing machine learning algorithm in predicting hotel booking cancellations is the Random Forest Classifier, achieving an accuracy of 88.2%, a precision of 88.2%, a recall of 88.2%, and an F1-score of 88% on the test set.
+- The main factors that influence hotel booking cancellations are lead time, deposit type, country, distribution channel, market segment, total of special requests and customer type.
+- The best performing machine learning algorithm in predicting hotel booking cancellations is the Random Forest Classifier, achieving cross validation score 88.3%, accuracy of 89.1%, a precision of 89.1%, a recall of 89.1%, and an F1-score of 89.1% on the test set.
 - The machine learning model can be improved by using more data, applying more feature engineering, and exploring more advanced machine learning techniques.
 
 
-- The most important features that influenced the cancellation probability were lead time, deposit type, country, market segment, and previous cancellations.
+- The most important features that influenced the cancellation probability were lead time, deposit type, country, market segment, total of special requests and previous cancellations.
 - The model was able to identify some patterns and trends in the data, such as:
 - The cancellation rate was higher for city hotels than for resort hotels.
 - The cancellation rate was higher for bookings made through online travel agents than for direct bookings.
@@ -56,8 +56,8 @@ The next steps for this project are:
 - To make the model more useful and actionable, the model could be deployed as a web application or a dashboard, where hotel managers and customers can input their booking details and get the cancellation probability and some recommendations.
 
 #### Outline of project
-- [Link to notebook](https://github.com/vbathena/hotel-booking-cancellation-prediction/blob/main/hotel-booking-cancellation-prediction.ipynb): Data Analysis and Model Performance
+- [Link to notebook](https://github.com/vbathena/hotel-booking-cancellation-prediction/hotel-booking-cancellation-prediction-final.ipynb): Data Analysis and Model Performance
 
 
 ##### Contact and Further Information
-- Created by [@vbathena](https://www.linkedin.com/in/vijayabhaskarreddybathena/) - feel free to contact me!
+- Created by @vbathena - feel free to contact me!
