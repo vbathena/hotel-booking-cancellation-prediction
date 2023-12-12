@@ -42,11 +42,11 @@ The results of this project are summarized as follows:
 
 - The most important features that influenced the cancellation probability were lead time, deposit type, country, market segment, total of special requests and previous cancellations.
 - The model was able to identify some patterns and trends in the data, such as:
-- The cancellation rate was higher for city hotels than for resort hotels.
-- The cancellation rate was higher for bookings made through online travel agents than for direct bookings.
-- The cancellation rate was higher for bookings with non-refundable deposits than for bookings with no deposits.
-- The cancellation rate was higher for bookings from certain countries, such as Portugal, Spain, Brazil, China, etc.
-- The cancellation rate was higher for bookings with longer lead times, longer stays, lower average daily rates, and fewer special requests.
+    - The cancellation rate was higher for city hotels than for resort hotels.
+    - The cancellation rate was higher for bookings made through online travel agents than for direct bookings.
+    - The cancellation rate was higher for bookings with non-refundable deposits than for bookings with no deposits.
+    - The cancellation rate was higher for bookings from certain countries, such as Portugal, Spain, Brazil, China, etc.
+    - The cancellation rate was higher for bookings with longer lead times, longer stays, lower average daily rates, and fewer special requests.
 
 #### Next steps
 The next steps for this project are:
@@ -56,7 +56,7 @@ The next steps for this project are:
 - To make the model more useful and actionable, the model could be deployed as a web application or a dashboard, where hotel managers and customers can input their booking details and get the cancellation probability and some recommendations.
 
 #### Outline of project
-- [Link to notebook](https://github.com/vbathena/hotel-booking-cancellation-prediction/hotel-booking-cancellation-prediction-final.ipynb): Data Analysis and Model Performance
+- [Link to notebook](https://github.com/vbathena/hotel-booking-cancellation-prediction/blob/main/hotel-booking-cancellation-prediction-final.ipynb): Data Analysis and Model Performance
 
 
 ##### Contact and Further Information
